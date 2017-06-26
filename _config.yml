@@ -14,7 +14,7 @@ resume_name:                    "John Paul Ekins"
 resume_title:                   "Software Engineer"
 resume_contact_email:
   "jpekins@gmail.com"
-resume_header_contact_info: "Palo Alto, CA | 682-233-5467 | homerjsimpson@youremailaddress.com"
+resume_header_contact_info: "Palo Alto, CA | 682-233-5467 | jpekins@gmail.com"
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
 
 # use "yes" to display the email contact button,
@@ -42,7 +42,7 @@ resume_social_links:
   #resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://www.facebook.com/ekins"
   resume_linkedin_url:          "https://www.linkedin.com/in/jpekins"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_instagram_url:         "https://www.instagram.com/ekins5/"
   #resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
