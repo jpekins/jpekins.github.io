@@ -3,7 +3,7 @@
 - project: happyuur.com
   role: Founder & Primary Developer
   duration: 2017 &mdash; Present
-  description: Happyuur is a deals finder that lets users find happy hour, lunch, brunch, and other specials at restaurants. It is built using Google Cloud Platform for its PAAS, Node.js for server, Pug(Jade) for templating. 
+  description: Happyuur is a deals finder that lets users find happy hour, lunch, brunch, and other specials at restaurants. It is built using Google Cloud Platform for its PAAS, Node.js for server, GCloud Storage for binary data, GCloud Datastore for NoSQL, Pug(Jade) for templating. 
   
 # DealSifter
 - project: DealSifter
@@ -15,4 +15,4 @@
 - project: PiPro
   role: Primary Developer
   duration: 2017 &mdash; Present
-  description: PiPro is a Github Pages blog that covers great projects to do on the raspberry Pi and great software education resources. It is built using Jekyll for static site generation.
+  description: PiPro is a Github Pages blog that covers projects to do on the Raspberry Pi and software education resources. It is built using Jekyll for static site generation.
