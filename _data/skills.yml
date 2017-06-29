@@ -6,6 +6,10 @@
 # Software Development
 - skill: Software Development
   description: Java, C++, C, Python, Ruby.
+  
+# Software Testing
+#- skill: Software Testing
+#  description: 
 
 # Patent Law
 #- skill: Patent Law
@@ -16,5 +20,5 @@
   description: Teaching 1-on-1, 2-on-1, and class setting with up to 15 students. Crafting persuasive lesson plans to motivate young minds to be engaged and inspired by technology.
   
 # eBay Seller
-- skill: eBay Seller
-  description: Selling semiconductor fabrication tools, dog toys, and other items. 100% feedback on "http://www.ebay.com/usr/wpvbekins" account.
+#- skill: eBay Seller
+#  description: Selling semiconductor fabrication tools, dog toys, and other items. 100% feedback on "http://www.ebay.com/usr/wpvbekins" account.
