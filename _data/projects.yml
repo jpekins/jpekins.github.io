@@ -3,13 +3,13 @@
 - project: happyuur.com
   role: Founder & Primary Developer
   duration: 2017 &mdash; Present
-  description: Happyuur is a deals finder that presents happy hour, lunch, brunch, and other specials at restaurants. It is built using Google Cloud Platform for its PAAS, Node.js for server, GCloud Storage for binary data, GCloud Datastore for NoSQL, Pug(Jade) for templating. 
+  description: Happyuur is a deals finder that presents happy hour, lunch, brunch, and other specials at participating restaurants. It is built using Google Cloud Platform for its PAAS, Node.js for server, GCloud Storage for binary data, GCloud Datastore for NoSQL, Pug(Jade) for templating. 
   
 # DealSifter
 - project: DealSifter
   role: Primary Developer
   duration: 2017 &mdash; Present
-  description: DealSifter is a gmail plugin that alerts users to deals in emails they are subscribed to. It is built using Google Apps Script.
+  description: DealSifter is a gmail plugin that alerts users to timely deals for restaurant email alerts. It is built using Google Apps Script.
 
 # PiPro
 - project: PiPro
